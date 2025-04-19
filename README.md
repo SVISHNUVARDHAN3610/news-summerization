@@ -34,23 +34,4 @@ We employed state-of-the-art transformer models such as BART (Bidirectional and 
 
 ---
 
-## 📌 Features
 
-- 📄 Upload and summarize long news articles.
-- 🤖 Uses pre-trained Transformer models (BART, T5).
-- 📊 Evaluated using ROUGE, BLEU metrics.
-- 🧼 Includes data preprocessing pipeline.
-- 🌐 Optional web interface using Streamlit/Flask.
-
----
-
-## 🛠️ Technologies Used
-
-- Python
-- Hugging Face Transformers
-- PyTorch / TensorFlow
-- NLTK, spaCy
-- Streamlit / Flask (for web app)
-- Jupyter Notebook (for development)
-
----
